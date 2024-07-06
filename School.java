@@ -19,6 +19,7 @@ public class School {
 	// TODO Auto-generated method stub
 public static void main(String[] args) {
 	System.out.println("welcome to oops");
+	System.out.println("Welcome to Git");
 }
 	}
 
