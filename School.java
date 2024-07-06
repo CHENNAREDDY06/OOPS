@@ -1,5 +1,7 @@
 package Com.oopsConcepts;
 
+
+//Basic oops example
 public class School {
 
 	String name;
