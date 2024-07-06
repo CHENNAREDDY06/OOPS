@@ -9,6 +9,8 @@ public class ComparableVsComparator {
 		S1.add("venkat");
 		S1.add("Rohan");
 		S1.add("Neeraj");
+		S1.add("Ram");
+		S1.add("Kittu");
 		Comparator<String> C1=new Comparator<>() {
 
 			@Override
