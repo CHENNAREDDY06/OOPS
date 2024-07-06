@@ -2,7 +2,7 @@ package Com.oopsConcepts;
 
 import java.util.*;
 
-
+//This class is Comparator class
 public class ComparableVsComparator {
 	public static void main(String[] args) {
 		List<String> S1=new ArrayList<>();
