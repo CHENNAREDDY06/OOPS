@@ -21,6 +21,9 @@ public static void main(String[] args) {
 	System.out.println("welcome to oops");
 	System.out.println("Welcome to Git");
 	System.out.println("Start learning");
+	System.out.println("keep learning");
+	System.out.println("keep learning");
+
 }
 	}
 
