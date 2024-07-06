@@ -3,7 +3,7 @@ package Com.oopsConcepts;
 
 //Basic oops example
 public class School {
-
+//I love to learn new technologies
 	String name;
 	int YearsOld;
 	char Grade;
